@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalculate",
+        "uuid": 19038096,
+        "checksum": "dafmt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
